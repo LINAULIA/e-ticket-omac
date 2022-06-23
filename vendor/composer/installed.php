@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '961afc3be87769149f83d30063ad0be67f16eb33',
         'name' => 'codeigniter/framework',
         'dev' => true,
     ),
     'versions' => array(
         'codeigniter/framework' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '961afc3be87769149f83d30063ad0be67f16eb33',
             'dev_requirement' => false,
         ),
         'doctrine/instantiator' => array(
@@ -245,12 +245,12 @@
             'dev_requirement' => true,
         ),
         'symfony/polyfill-ctype' => array(
-            'pretty_version' => 'v1.25.0',
-            'version' => '1.25.0.0',
+            'pretty_version' => 'v1.26.0',
+            'version' => '1.26.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/polyfill-ctype',
             'aliases' => array(),
-            'reference' => '30885182c981ab175d4d034db0f6f469898070ab',
+            'reference' => '6fd1b9a79f6e3cf65f9e679b23af304cd9e010d4',
             'dev_requirement' => true,
         ),
         'symfony/yaml' => array(
